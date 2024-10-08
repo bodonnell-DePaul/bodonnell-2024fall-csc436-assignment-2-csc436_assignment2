@@ -1,0 +1,10 @@
+.todoform {
+    background-color: rgb(56, 210, 123);
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.todobtn {
+    width: 100%;
+    margin-top: 10px;
+}
